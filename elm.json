@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "romstad/elm-chess",
+    "name": "pilatch/elm-chess",
     "summary": "Elm library for computer chess",
     "license": "BSD-3-Clause",
     "version": "1.1.2",
